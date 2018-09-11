@@ -6,4 +6,5 @@
 public class A {
 
     int a=0;
+ int a22=0;
 }
