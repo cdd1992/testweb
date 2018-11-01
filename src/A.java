@@ -8,3 +8,10 @@ public class A {
     int a=0;
  int a22=0;
 }
+
+
+public class A {
+
+    int a=0;
+ int a22=0;
+}
