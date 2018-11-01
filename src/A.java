@@ -48,7 +48,7 @@ public class OrderCustomerDeclarationRequestDTO implements Serializable {
     private InformCategoryEnum declarType;
     
 }
-
+2222222222222222222222222222222
 
 public class A {
 
