@@ -1,4 +1,4 @@
-package com.zhongan.graphene.order.scenario.share.dto.order.request;
+﻿package com.zhongan.graphene.order.scenario.share.dto.order.request;
 
 import java.io.Serializable;
 import java.util.List;
@@ -50,6 +50,7 @@ public class OrderCustomerDeclarationRequestDTO implements Serializable {
 }
 2222222222222222222222222222222
 444444444444444444444566666666666666666666
+个人版ghihfgurueifeoreroriirr9r59r9r5999999999999999999999999999999999
 public class A {
 
     int a=0;
