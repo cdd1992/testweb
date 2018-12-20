@@ -43,7 +43,7 @@ public class OrderCustomerDeclarationRequestDTO implements Serializable {
     @ApiModelProperty(value = "客户类型",notes = "客户类型", dataType = "CustomerTypeEnum")
     private CustomerTypeEnum customerType;
 
-
+//我改的地方，，，，，，，，，，，，，，，
     
 }
 666666666666666666666666666666666666666666666666666666666666666666666
