@@ -43,9 +43,7 @@ public class OrderCustomerDeclarationRequestDTO implements Serializable {
     @ApiModelProperty(value = "客户类型",notes = "客户类型", dataType = "CustomerTypeEnum")
     private CustomerTypeEnum customerType;
 
-    /** 告知类型 1、健康告知 2、财务告知 */
-    @ApiModelProperty(value = "告知类型",notes = "告知类型", dataType = "InformCategoryEnum")
-    private InformCategoryEnum declarType;
+
     
 }
 666666666666666666666666666666666666666666666666666666666666666666666
