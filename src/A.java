@@ -10,7 +10,7 @@ import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 import lombok.Data;
 
-@Data123456
+@Data123123
 @ApiModel("订单客户告知入参")
 public class OrderCustomerDeclarationRequestDTO implements Serializable {
 
@@ -49,15 +49,7 @@ public class OrderCustomerDeclarationRequestDTO implements Serializable {
 666666666666666666666666666666666666666666666666666666666666666666666
 2222222222222222222222222222222
 444444444444444444444566666666666666666666
-<<<<<<< HEAD
-public class A123 {
-=======
-<<<<<<< HEAD
-public class A12 {
-=======
-public class A123 {
->>>>>>> 9b7be144b5cb80606e602e5c56785eaede88ae40
->>>>>>> no message
+public class A1234 {
 
     int a=0;
  int a22=0;
