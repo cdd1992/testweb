@@ -3,7 +3,7 @@
  * @Date: 2018/6/22 18:14
  * @Description:
  */
-public class B123456 {
+public class B76543211 {
 
     int b;
 
@@ -13,5 +13,5 @@ public class B123456 {
 
     public void setB(int b) {
         this.b = b;
-    }
+    }123
 }
